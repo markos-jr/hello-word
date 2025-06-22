@@ -1,6 +1,6 @@
 # 🧠 Hello Word
 
-> Uma brincadeira com o clássico "Hello World" — mas aqui, ao invés de imprimir "Olá, mundo" na tela, a ideia é dizer "Olá, palavras".  
+> Um trocadilho com o clássico "Hello World" — mas aqui, ao invés de imprimir "Olá, mundo" na tela, a ideia é dizer "Olá, palavras".  
 Este repositório reúne **documentações, anotações e conteúdos técnicos** em texto puro:  
 **palavras que ensinam, organizam e guardam conhecimento.**
 
