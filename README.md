@@ -1,4 +1,4 @@
-# 🧠 Hello Word
+# Hello Word
 
 > Um trocadilho com o clássico "Hello World" — mas aqui, ao invés de imprimir "Olá, mundo" na tela, a ideia é dizer "Olá, palavras".  
 Este repositório reúne **documentações, anotações e conteúdos técnicos** em texto puro:  
@@ -6,7 +6,7 @@ Este repositório reúne **documentações, anotações e conteúdos técnicos**
 
 ---
 
-## 📚 Propósito
+## Propósito
 
 Este repositório foi criado para **centralizar aprendizados técnicos e experiências práticas**. Ele serve como:
 
@@ -16,7 +16,7 @@ Este repositório foi criado para **centralizar aprendizados técnicos e experi�
 
 ---
 
-## 🧭 Estrutura do conteúdo
+## Estrutura do conteúdo
 
 ```
 docs/
@@ -39,7 +39,7 @@ docs/
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 1. Navegue pelas pastas dentro de `docs/` para encontrar os assuntos desejados;
 2. Cada arquivo `.md` traz explicações diretas, exemplos e boas práticas;
@@ -47,7 +47,7 @@ docs/
 
 ---
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Pull requests são bem-vindos! Se quiser colaborar:
 - Crie uma branch com sua contribuição;
@@ -56,6 +56,6 @@ Pull requests são bem-vindos! Se quiser colaborar:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este repositório está sob a licença MIT.
